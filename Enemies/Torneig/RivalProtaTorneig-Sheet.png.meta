@@ -1,0 +1,1609 @@
+fileFormatVersion: 2
+guid: 099b809be1f49ca4d9a4af692e7f9a6b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 891
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a8d4208d3f48847897454a24dfdbc9
+      internalID: 317488581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 891
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c59bd74408eb41b31f312afc3d563
+      internalID: -1455920297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 891
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d232f0bf137bebc4ba37b152aaa690aa
+      internalID: -1612971587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 891
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9771ab73ec08749a049e2af932d9e6
+      internalID: 1135006999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 891
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e686f469e4c8b0841959c20181405576
+      internalID: 848808909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 891
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddc99afae9776848a2d1b9a7a6ef63a
+      internalID: -1041106571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 891
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd5de9c8a66ae4982ed3d9c6a82b02
+      internalID: 2060620709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fccee59345d3d647aa744f467eb9062
+      internalID: -2009803723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 792
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872198cb63b05db43b69dccdfc42c482
+      internalID: -770159634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 792
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc77b8979bd43542b876f67345db981
+      internalID: -152984699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 792
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1979451d68741044b7e6daff1f28133
+      internalID: 1960876981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 792
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4a700a0079b6647b2afc557c782585
+      internalID: -885829295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 792
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71630ae0f1f89b54d86d7c7193a32f48
+      internalID: -267124948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 792
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e7c30c470563e428f4564e88397b47
+      internalID: 1767412357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78318a0407018d94abb8afff5a8d0a84
+      internalID: -554646220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 693
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d692f246535a4bb3bbc2fe5a25ee4
+      internalID: -711532008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 693
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06769d75864f9a54d9ace4cdab1b40cc
+      internalID: -1193400885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 693
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b4401299386b6409d05104b4144ee9
+      internalID: 1018117013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 693
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24da702833d6244badb4fc292b5bb97
+      internalID: -1161352528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 693
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b755a5078516325458e493424aa30173
+      internalID: 741378562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 693
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d35fac41d9b744780a7193d554e183
+      internalID: -427985790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a82afbe71e8f44b95926e561f3e1a
+      internalID: 473929002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 594
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932cbcce80bcee0498bb51735b77f4c5
+      internalID: 320094261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 594
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ab098b214c6f468901670da0bab99
+      internalID: -325882417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 594
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29767d976b640b48b1579533ce6eb30
+      internalID: -501313697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 594
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59031ed8fb07154dadfda140d18f12b
+      internalID: -2111564411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 594
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afa868abcb786446988f53dc87127d3
+      internalID: -1545068119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 594
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6d4593583d3cb4c9f395141366f5f5
+      internalID: 1023648354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa81019a4a924834da89b4dc53d4d24f
+      internalID: -1769459573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 495
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a92928ed77061a4f835f59e92ac1e87
+      internalID: 467558321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 495
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc90ae4faa077442b4c202279018920
+      internalID: -345915552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 495
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1169d899e45f434daa650473e2ea67a
+      internalID: 1675149269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 495
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c599bec092c7847a1339887121926f
+      internalID: 417915344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 495
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d7369c60dcd66458644cde3d5e4a52
+      internalID: -1325489022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 495
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2bbccb58d36bc45b499aeebc01956b
+      internalID: 1836975876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43e77991cc1fb4ebff3cab9a8ba9d5
+      internalID: 372412953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 396
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0227a482109fd544a1f905dee116792
+      internalID: 775099351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 396
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a14d68a0a67f9742bb128df81d5c1e1
+      internalID: -980187286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 396
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa6b1987e8a359488a0878dfddd79cc
+      internalID: 547133656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 396
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c41aacb1a83aa4d97d6340db7580f5
+      internalID: 742111607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 396
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c355854a93247a4184790eaa7e0fa0e
+      internalID: 527668864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 396
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc56aaa2e42c7ee4a949af3bb0aae7b5
+      internalID: -1917471301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb53080080f549a40bba38b3227e1345
+      internalID: -743046388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 297
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec4c229c9cffe42a04cbf1ac3a2493
+      internalID: -557276154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 297
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85faee9eee5ce6545a8002a3d48c8c9c
+      internalID: 165138738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 297
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f091a08f5a2b1e41b2bdf62c35fce4f
+      internalID: 381251614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 297
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57ca3c76098d644b844f9282052860
+      internalID: -433844709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 297
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd38a15bf451aa49800aac507e799c0
+      internalID: -2125734923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 297
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b4cde9a676f4488dc43f24ed627fe
+      internalID: 349036967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a765e96c5b8dfe14082fdd238740ae8a
+      internalID: 499356135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 198
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ae3eea4aa6b646a555fa108a4edd0
+      internalID: -18804812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 198
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087259227b9a4c5418c952891024eec8
+      internalID: -559807421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 198
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1ab34f3cfd5345b7b84ee3e1360be
+      internalID: 2145435833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 198
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65a9a16cdcc4e84c8753f2c94756b6b
+      internalID: 668094192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 198
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f6dcff099b2744ac6015651744d2b
+      internalID: -338207882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 198
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7eae46b6dd6f44bb6b75d08904eaac
+      internalID: 753731013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7814b1c916aefe48b1963d6e15cf977
+      internalID: 249933493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 99
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472c4363221d20e4e9fc56079a8693bd
+      internalID: -874919943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 99
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f831c9081733f44e9e2ba82864347b3
+      internalID: 891320984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 99
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db5634e5f5bc74b98b31705d0db1fc
+      internalID: 1511618874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 99
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1431e1628281394b93ff3b51c38a558
+      internalID: 716565608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 99
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ff6065efcbc5b42a871bdd71f2d5d1
+      internalID: -449034407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 99
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a8a624e08a1fc4a8d9c030c4dd16a7
+      internalID: 1020042712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff45ca64340bb0a4dae98a32ddf8880c
+      internalID: -1681681820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d798b69d8affdab45b5142c8673ef325
+      internalID: -92607330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f2c6920dd68145b35a1eeccdfc4b0
+      internalID: -49530967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RivalProtaTorneig-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea9451261359b4c8419087de6de6cf
+      internalID: -142623261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RivalProtaTorneig-Sheet_5: -1041106571
+      RivalProtaTorneig-Sheet_18: -1161352528
+      RivalProtaTorneig-Sheet_64: -92607330
+      RivalProtaTorneig-Sheet_59: 1511618874
+      RivalProtaTorneig-Sheet_39: 742111607
+      RivalProtaTorneig-Sheet_38: 547133656
+      RivalProtaTorneig-Sheet_12: -267124948
+      RivalProtaTorneig-Sheet_42: -743046388
+      RivalProtaTorneig-Sheet_37: -980187286
+      RivalProtaTorneig-Sheet_17: 1018117013
+      RivalProtaTorneig-Sheet_15: -711532008
+      RivalProtaTorneig-Sheet_53: 668094192
+      RivalProtaTorneig-Sheet_66: -142623261
+      RivalProtaTorneig-Sheet_51: -559807421
+      RivalProtaTorneig-Sheet_35: 372412953
+      RivalProtaTorneig-Sheet_4: 848808909
+      RivalProtaTorneig-Sheet_58: 891320984
+      RivalProtaTorneig-Sheet_6: 2060620709
+      RivalProtaTorneig-Sheet_54: -338207882
+      RivalProtaTorneig-Sheet_40: 527668864
+      RivalProtaTorneig-Sheet_48: 349036967
+      RivalProtaTorneig-Sheet_0: 317488581
+      RivalProtaTorneig-Sheet_10: 1960876981
+      RivalProtaTorneig-Sheet_56: 249933493
+      RivalProtaTorneig-Sheet_62: 1020042712
+      RivalProtaTorneig-Sheet_31: 1675149269
+      RivalProtaTorneig-Sheet_16: -1193400885
+      RivalProtaTorneig-Sheet_29: 467558321
+      RivalProtaTorneig-Sheet_33: -1325489022
+      RivalProtaTorneig-Sheet_52: 2145435833
+      RivalProtaTorneig-Sheet_43: -557276154
+      RivalProtaTorneig-Sheet_20: -427985790
+      RivalProtaTorneig-Sheet_41: -1917471301
+      RivalProtaTorneig-Sheet_45: 381251614
+      RivalProtaTorneig-Sheet_60: 716565608
+      RivalProtaTorneig-Sheet_1: -1455920297
+      RivalProtaTorneig-Sheet_25: -2111564411
+      RivalProtaTorneig-Sheet_7: -2009803723
+      RivalProtaTorneig-Sheet_55: 753731013
+      RivalProtaTorneig-Sheet_3: 1135006999
+      RivalProtaTorneig-Sheet_32: 417915344
+      RivalProtaTorneig-Sheet_9: -152984699
+      RivalProtaTorneig-Sheet_47: -2125734923
+      RivalProtaTorneig-Sheet_8: -770159634
+      RivalProtaTorneig-Sheet_21: 473929002
+      RivalProtaTorneig-Sheet_49: 499356135
+      RivalProtaTorneig-Sheet_26: -1545068119
+      RivalProtaTorneig-Sheet_57: -874919943
+      RivalProtaTorneig-Sheet_65: -49530967
+      RivalProtaTorneig-Sheet_22: 320094261
+      RivalProtaTorneig-Sheet_61: -449034407
+      RivalProtaTorneig-Sheet_23: -325882417
+      RivalProtaTorneig-Sheet_19: 741378562
+      RivalProtaTorneig-Sheet_30: -345915552
+      RivalProtaTorneig-Sheet_11: -885829295
+      RivalProtaTorneig-Sheet_44: 165138738
+      RivalProtaTorneig-Sheet_46: -433844709
+      RivalProtaTorneig-Sheet_2: -1612971587
+      RivalProtaTorneig-Sheet_63: -1681681820
+      RivalProtaTorneig-Sheet_24: -501313697
+      RivalProtaTorneig-Sheet_28: -1769459573
+      RivalProtaTorneig-Sheet_34: 1836975876
+      RivalProtaTorneig-Sheet_13: 1767412357
+      RivalProtaTorneig-Sheet_36: 775099351
+      RivalProtaTorneig-Sheet_27: 1023648354
+      RivalProtaTorneig-Sheet_50: -18804812
+      RivalProtaTorneig-Sheet_14: -554646220
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
